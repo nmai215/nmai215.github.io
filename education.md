@@ -23,4 +23,4 @@ permalink: /education/
 - Computer Systems Forensics - In progress - Methodologies used for analysis of computer security breaches; Gather and evaluate evidence to perform postmortem analysis of a security breach
 
 ### How My Coursework Prepares Me
-A majority of my coursework taken during my time as a student provides hands-on experience through labs and projects that provides me with the training needed to 
+A majority of my coursework taken during my time as a student provides hands-on experience through labs and projects that provides me with the training that prepares me to enter the workforce. I've had in-depth experience with Microsoft Active Directory, performing tasks such as deploying virtual machines, adding and removing users, resetting passwords, and configure peripherals to name a few. I've also had experience using Wireshark to capture network packets.
